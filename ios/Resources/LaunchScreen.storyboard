@@ -1,0 +1,14 @@
+<!-- Setting Up Lottie in Storyboard: -->
+
+<!-- Open LaunchScreen.storyboard in Xcode. -->
+<!-- Drag a UIView from the Object Library onto the main view. -->
+<!-- Set the class of this view to AnimationView: -->
+<!-- Select the UIView. -->
+<!-- Go to the Identity Inspector on the right. -->
+<!-- Under Custom Class, set: -->
+<!-- Class: AnimationView -->
+<!-- Module: Lottie (ensure it's imported properly). -->
+<!-- Adding Lottie Animation File: -->
+
+<!-- Add your splash_animation.json file to the Assets directory: -->
+<!-- Drag it into Xcode under Assets. -->
